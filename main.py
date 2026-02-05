@@ -132,5 +132,9 @@ main()
 meetingSchedule.save("meetingSchedule.xlsx")
 meetingSchedule.close()
 
-
+#FIRST – 20 pt
+#Education – 14 pt
+#State – 12 pt
+#Software – 11 pt
+#Developed – 10 pt
 
